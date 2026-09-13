@@ -16,13 +16,15 @@ When you type `/wrap` or say **"let's wrap up"**, Claude:
 
 ### Example ending
 
-> **To start the next session, paste this:**
->
-> ```
-> Continue the pricing page redesign. First read the latest entry in notes/session-log.md and the open items in TODO.md.
-> First step: finish the mobile layout for the plan cards. The desktop version is done and checked.
-> Before starting, I'll decide whether the yearly plan shows a discount badge.
-> ```
+**To start the next session, paste this:**
+
+```
+Continue the pricing page redesign.
+First read the latest entry in notes/session-log.md and the open items in TODO.md.
+First step: finish the mobile layout for the plan cards.
+The desktop version is done and checked.
+Before starting, I'll decide whether the yearly plan shows a discount badge.
+```
 
 ## Install
 
